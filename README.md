@@ -8,6 +8,9 @@ To use browserify:
 
     npm run browserify
 
+Check localhost:8889
+  
+  
 To use webpack with webpack-server:
 
     npm run webpack
